@@ -38,3 +38,7 @@ var re = /borregos/gi;
 var str = "Apples are round, and apples are juicy.";
 var newstr = str.replace(re, "oranges");
 console.log(newstr);
+//hoisting//
+
+let myArray = ['rana', 'camaleon', 'mosquito', 'hormiga', 'mosco', 'escarabajo'];
+
